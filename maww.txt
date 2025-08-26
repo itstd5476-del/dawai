@@ -1,0 +1,1 @@
+echo "Member 1 was here" >> file.txt
